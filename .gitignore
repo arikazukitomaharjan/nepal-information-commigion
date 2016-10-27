@@ -1,0 +1,4 @@
+/vendor
+/.idea
+/resources/assets/vendor
+/node_modules

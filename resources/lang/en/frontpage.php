@@ -1,0 +1,83 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: shashi
+ * Date: 6/22/15
+ * Time: 4:08 PM
+ */
+
+return [
+
+    'Home'                                                              => 'Home',
+    'Commissions'                                                       => 'Commissions',
+    'Publications'                                                      => 'Publications',
+    'Decisions'                                                         => 'Decisions',
+    'Decisions On Appeal'                                               => 'Decisions On Appeal',
+    'Decisions On Application'                                          => 'Decisions On Application',
+    'Decisions On Complaint'                                            => 'Decisions On Complaint',
+    'NIC Orders'                                           =>'NIC Orders',
+    'Related Laws'                                                      => 'Related Laws',
+    'Officers'                                                          => 'Officers',
+    'Information Officers'                                              => 'Information Officers',
+    'Applicants/Application Samples'                                    => 'Applicants/Application Samples',
+    'Trimester Reports'			                                        => 'Trimester Reports',
+    'Individual Publications'                                           => 'Individual Publications',
+    'Others'                                                         => 'Others',
+    'Media'                                                             => 'Media',
+    'NIC Alliance Routine'                                              => 'NIC Alliance Routine',
+    'Important News'                                                    => 'Important News', 
+    'Organizational Lists'                                              => 'Organizational Lists',
+    'Success Stories'                                                   => 'Success Stories',
+    'Organizational Procedure'                                          => 'Organizational Procedure',
+    'Press Release'                                                     => 'Press Release',
+    'Organizational Diary'                                              => 'Organizational Diary',
+    'Important Notices'                                                 => 'Important Notices',
+    'Check Your Request Status on MIS'                                  => 'Check Your Request Status on MIS',
+    'Case Id No.'                                                       => 'Case Id No.',  
+    'Name'                                                              => 'Name',
+    'Id No.'                                                            => 'Id No.',
+    'Search'                                                            => 'Search',
+    'Cartoon'                                                           => 'Cartoon',
+    'News'                                                              => 'News',
+    'Secretary'                                                         => 'Secretary',
+    'Appeals'															=>'Appeals',
+    'Working procedure'													=>'Working procedure',
+    'Diary'																=>'Diary',
+    'Right, Duties and Responsibilities'								=>'Right, Duties and Responsibilities',
+    'Annual Reports'													=>'Annual Reports',
+    'Other Publications'												=>'Other Publications',
+    'Constitution of Nepal'    											=>'Constitution of Nepal',
+    'Act, Regulation, Procedures'										=>'Act, Regulation, Procedures',
+    'Other Laws'														=>'Other Laws',
+    'Central PIOS'														=>'Central PIOS',
+    'District wise PIOS'												=>'District wise PIOS',
+    'Other PIOS'														=>'Other PIOS',
+    'Application to PIO'												=>'Application to PIO',
+    'Complain to Office Chief'											=>'Complain to Office Chief',
+    'Application to Ayog'												=>'Application to Ayog',
+    'Complain to Ayog'													=>'Complain to Ayog',
+    'Appeal to Ayog'													=>'Appeal to Ayog',
+    'Ministries Proactive Disclosure'									=>'Ministries Proactive Disclosure',
+    'Department’s Proactive Disclosure'									=>'Department’s Proactive Disclosure',
+    'Others Proactive Disclosure'										=>'Others Proactive Disclosure',
+    'Training Materials'												=>'Training Materials',
+    'Letters and Memos'													=>'Letters and Memos',
+    'Ayog’s Organizational Structure'									=>'Ayog’s Organizational Structure',
+   'Commissioners'														=>'Commissioners',
+   'Secretary' 															=>'Secretary',
+   'Information Officer'												=>'Information Officer',
+   'Applications'=>'Applications',
+   'Contact'                                                           =>'Contact',
+   'About Us'                                                          =>'About Us',
+   'Gallery'                                                           =>'Gallery',
+   'Important Link'                                                    =>'Important Link',
+   'Contact Address'                                                   =>'Contact Address',
+   'Who We Are'                                                        =>'Who We Are',
+   'What We Do'                                                        =>'What We Do',
+   'Procedure for Request'                                             =>'Procedure for Request',
+   'Rights to Know'                                                    =>'Rights to Know',
+   'Search Information Officers(District Wise)'=>'Search Information Officers(District Wise)'
+    		
+    
+];
+

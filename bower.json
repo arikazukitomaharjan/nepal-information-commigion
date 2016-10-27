@@ -1,0 +1,18 @@
+{
+  "name": "L5App",
+  "description": "Laravel 5 website tutorial",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "font-awesome": "~4.3.0",
+    "normalize.css": "~3.0.3",
+    "metisMenu": "2.*",
+    "jquery-ui": "1.11.4",
+    "jquery-colorbox": "~1.6.1",
+    "select2": "~4.0.0",
+    "markitup": "~1.1.14",
+    "angular-bootstrap": "~0.13.0",
+    "blueimp-file-upload": "9.10.4"
+  }
+}
